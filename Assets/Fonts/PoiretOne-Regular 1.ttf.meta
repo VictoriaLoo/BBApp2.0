@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9e756f0339a3ec2438d5c174da10d0bf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Poiret One
+  fontNames:
+  - Poiret One
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: fdd837d428056d24b954824a8dd9d5b0, type: 3}
+  - {fileID: 12800000, guid: ec0148dd86c64f34f9ff2846698da564, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
